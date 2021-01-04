@@ -1,0 +1,8 @@
+In the description you identify (per team) the idea for which you plan to use Geoscripting:
+The potential contribution of Geoscripting for yourself.
+Geoscripting allows us to collaborate on the same project without creating many unwanted versions saved only on local and personal computer memory. We might use geoscripting skills on our thesis project and later in our daily work activities. The great advantage is the reproductivity 
+The specific R or Python knowledge you would need to learn about.
+Geoscripting requires at least basic knowledge on Python or R. For projects related to GIS, it is important to mind that R is indicated to statistical analysis and visualization whereas python is a general and complete programming source. 
+Describe the data you would like to use for your final project:
+Is the data available?What type of data would you like to visualise/analyse?
+Data for fire monitoring. Different optical and radar satellite data and thermal (MODIS) data.
