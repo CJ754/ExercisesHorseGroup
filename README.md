@@ -1,0 +1,2 @@
+# ExercisesHorseGroup
+Group exercises
